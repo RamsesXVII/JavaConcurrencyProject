@@ -1,0 +1,15 @@
+_Store
+.DS_Store?
+.Trashes
+.vagrant/
+.classpath
+.project
+.build/
+.DS_Store
+.settings/
+boxes/
+/vagrant-spec.config.rb
+bin/
+lib/
+.bin/
+.lib/
